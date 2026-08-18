@@ -1,0 +1,12 @@
+a=float(input("enter a :"))
+b=float(input("enter b :"))
+sum=a+b
+sub=a-b
+div=a/b
+multiply=a*b
+print("sum is ",sum)
+print("sub is ",sum)
+print("div is ",div)
+print("multiply  is ",multiply)
+print("thank you for using ")
+print("make by nayan gadhiya")
