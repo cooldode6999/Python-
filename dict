@@ -1,0 +1,5 @@
+marks = {"maths":99,"physics":97,"chemistry":99}
+marks["physics"]=90
+print(marks)
+for key in marks:
+    print(key,marks[key])
