@@ -1,0 +1,13 @@
+mark =float(input("enter ypur mark")) 
+if mark>100 : 
+     print("enter valid marks")
+elif mark>=80 :
+    print("your grade is A")
+elif mark<80 and mark>=60:
+    print("your grade is B")
+elif mark<60 and mark>=40:
+    print("your grade ia C")
+    
+    
+print("Thank you for using")
+#make by Nayan gadhiya 
