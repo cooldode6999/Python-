@@ -1,0 +1,5 @@
+marks={98,97,96,95,95,96}
+print(len(marks),marks)
+# if one value is already store then memory doent store it again 
+for score in marks:
+    print(score)
