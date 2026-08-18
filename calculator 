@@ -1,0 +1,25 @@
+a =float(input("enter a :"))
+b = float(input("enter b : "))
+c = input("enter operater(sum,div,mul,reminder,power,sub): ")
+sum=a+b
+sub=a-b
+div=a/b
+mul=a*b
+reminder=a%b
+power=a**b
+if c:=sum:
+    print("your sum is ",sum)
+elif c:=sub:
+    print("your sub is ",sub)
+elif c:=div:
+    print("your div is ",div)
+elif c:=mul:
+    print("your mul is",mul)
+elif c:=reminder:
+    print("your reminder is",reminder)
+elif c:=power:
+    print("your power is ",power)
+    
+    
+print("thank you for using our calcutor")
+#Made by nayan gadhiya
