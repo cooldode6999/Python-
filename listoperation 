@@ -1,0 +1,11 @@
+marks = [99,98,96,99,92.5]
+
+print(marks, type(marks))
+
+print(len(marks))
+print(marks[-1])
+print(marks[-2])
+print(marks[0:2])
+print(marks[-3:])
+for score in marks:
+    print(score)
